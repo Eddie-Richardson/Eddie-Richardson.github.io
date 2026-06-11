@@ -1,3 +1,5 @@
+# Eddie Richardson
+
 Backend engineer focused on building reliable, maintainable API systems using Python, FastAPI, and PostgreSQL.
 
 ## Summary
