@@ -2,11 +2,9 @@
 
 If you want to reach me, here are the best ways:
 
-GitHub
-https://github.com/Eddie-Richardson
+GitHub [github.com/Eddie-Richardson](https://github.com/Eddie-Richardson)
 
-LinkedIn
-https://www.linkedin.com/in/charles-richardson-211816b4/
+LinkedIn [charles-richardson](https://www.linkedin.com/in/charles-richardson-211816b4/)
 
-## Email
+Email  
 Use the contact options on GitHub or LinkedIn.
